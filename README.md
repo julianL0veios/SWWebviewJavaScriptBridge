@@ -1,0 +1,2 @@
+# SWWebviewJavaScriptBridge
+swift版h5跟客户端通讯
